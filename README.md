@@ -2,17 +2,18 @@
 Le metzlerspace est la suite de l'équipe Dreamteam qui a participé à cansat en 2024 et 2025
 Nos composants électroniques: (KC= Kit Cansat)
 
--Rasberry pi classique avec CIRCUITPYTHON pas MICROPYTHON (KC)
--2*RFM69(KC)
--BMP280(KC)
--Battery lipo 1000mA(KC)
--Powerboost 1000 charger(KC)
--Sandisk 8GB (attention à la taille données corompues)
--Adafruit Micro SD SPI or SDIO Card Breakout Board
--gyroscope adafruit LSM9DS1
--optionnel: switch on/off
--PCB(KC)
--FPC-Ruban-40-P0.5-100mm(KC) si il casse trouvable sur amazon dans les Ruban pr appareils photo
+- Raspberry Pi classique avec **CircuitPython** (pas MicroPython) *(KC)*
+- 2 × **RFM69** *(KC)*
+- **BMP280** *(KC)*
+- Batterie **LiPo 1000mAh** *(KC)*
+- **PowerBoost 1000 Charger** *(KC)*
+- Carte **Sandisk 8GB** *(attention à la taille : risque de données corrompues)*
+- **Adafruit Micro SD SPI** ou **SDIO Card Breakout Board**
+- Gyroscope **Adafruit LSM9DS1**
+- *(Optionnel)* : interrupteur **ON/OFF**
+- **PCB** *(KC)*
+- **FPC-Ruban-40-P0.5-100mm** *(KC)*  
+- Si cassé : remplaçable sur Amazon (rubans pour appareils photo)
 
 Soudures :
 -La majorité des infos sur ces sites si vous voulez faire en micropython :
